@@ -2,7 +2,7 @@
 # Citi_Bike_Analytics
 ![image](https://user-images.githubusercontent.com/89142142/151605068-f23a5750-2d21-4484-9b85-182284e5e388.png)
 Purpose: This write-up explores Citi Bike trip changes in New York City and Jersey City between the months of January to June in the year 2020. The pandemic of covid-19 caused most transit modes too see a exponential decline in 2020 and this story will walk us through how Citi Bike compared with those trends as well as explore how evenly change was spread geographically.
-Purpose: This write-up explores Citi Bike trip changes in New York City and Jersey City between the months of January to June in the year 2020. The pandemic of covid-19 caused most transit modes too see a exponential decline in 2020 and this story will walk us through how Citi Bike compared with those trends as well as explore how evenly change was spread geographically.
+
 
 The dataset used in this analysis is an aggregate of the raw trip data published by Citi Bike. To clean the data, I uploaded 6 different csv files to jupyter notebook, merged the frames, split the starttime and stoptime columns, reassigned the gender numbers to "Male," "Female," and "Unknown," and created an equation to turn the tripduration column into minutes.
 
